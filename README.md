@@ -1,2 +1,2 @@
 # movie-analysis
-Correlation between budget of a movie and gross collection
+Correlation between the budget of a movie and gross collection.
